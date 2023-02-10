@@ -1,0 +1,58 @@
+body{
+    position:relative;
+    left:300px;
+    background-color: #af7ab36b;
+}
+
+#img{
+    width: 20%;
+    height: 35vh;
+    position: relative;
+    left: 700px;
+    bottom:515px;
+    border-radius: 20px;
+}
+#contacts{
+    width: 25%;
+    position: relative;
+    left: 700px;
+    bottom:500px
+}
+#contacts1{
+    width: 30%;
+    position: relative;
+    left: 700px;
+    bottom:610px
+}
+
+p{
+    font-size: large;
+    left:15px
+}
+
+#bio{
+    border: 2px soid black;
+    background-color: rgba(238, 235, 235, 0.931);
+    border-radius: 15px;
+    width: 60%;
+    height: 62vh;
+    box-shadow: rgb(53, 52, 52) 0px 5px 7px;
+    padding: 2rem;
+}
+
+#phone {
+    height: 2vh;
+    width: 6%;
+    top: 650px;
+}
+
+#email{
+    height: 2vh;
+    width: 6%;
+    top: 590px;
+}
+
+h1{
+    font-style: italic;
+    border-bottom: 1px solid black;
+}
